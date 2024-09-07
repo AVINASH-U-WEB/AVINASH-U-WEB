@@ -74,6 +74,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AVINASH-U-WEB/AVINASH-U-WEB/output/snake.svg" alt="Snake animation" />
 
 ###
