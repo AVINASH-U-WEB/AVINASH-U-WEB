@@ -1,95 +1,23 @@
 <div align="center">
-  <img height="227" src="https://www.packaging-innovation.com/wp-content/uploads/2022/10/Japanese-bnr.jpg" />
-</div>
-
-###
-
-<h3 align="left">Hello Fellow < Developers/ >!</h3>
-
-###
-
-<p align="left">Hi! My name is Avinash. Thank You for taking the time to view my GitHub Profile 😊</p>
-
-###
-
-<h3 align="left">About :</h3>
-
-###
-
-<p align="left">I am a dedicated and creative web designer with a strong foundation in both the aesthetic and technical aspects of web design. With a passion for crafting beautiful and user-friendly websites, I bring fresh perspectives and innovative solutions to every project.</p>
-
-###
-
-<h3 align="left">📌 Portfolio :</h3>
-
-<p align="left">
-  🔗 <a href="https://portfolio-nbrc.vercel.app/" target="_blank">https://portfolio-nbrc.vercel.app/</a>
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AVINASH-U-WEB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AVINASH-U-WEB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<h3 align="left">Top Skills :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-  <img width="12" />
- 
-</div>
-
-###
-
-<h3 align="left">Connect with me :</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@avinash2833" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/avi_yash_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:avin3215@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/avinash-u-26b147255/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100023930563839" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="https://www.behance.net/avinash33" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5ZWd4cDh0NWV1Mmd2ZGQ3bXQ4dmxycDZjdjBjMno3dDN2bGQzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeP6YKY/giphy.gif" width="400" alt="Digital Interface" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aviyash?ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=%F0%9F%96%A5%EF%B8%8F+SYSTEM+INITIALIZING...;HELLO+FELLOW+<DEVELOPERS%2F>;%F0%9F%91%8B+I'M+AVINASH;WEB+ARCHITECT+%7C+UI%2FUX+DESIGNER;CREATING+DIGITAL+EXPERIENCES" alt="Typing Animation" />
 </div>
+
+###
+
+<h3 align="center">🖥️ TERMINAL OUTPUT: USER_PROFILE</h3>
+
+```bash
+User: AVINASH-U-WEB
+Role: Full Stack Developer & Digital Designer
+Status: ACTIVE [🟢]
+Specialization: React | TypeScript | UI/UX
+Mission: Crafting intuitive digital experiences
+Location: Digital Space
+
+<div align="center"> <table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=AVINASH-U-WEB&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" height="165" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AVINASH-U-WEB&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=ffffff" height="165" /> </td> </tr> </table> </div><h3 align="center">⚡ ACTIVE MODULES</h3><div align="center"> <div style="display: inline-block; margin: 10px;"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript" /> <p><small>FRONTEND_ENGINE</small></p> </div> <div style="display: inline-block; margin: 10px;"> <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" /> <p><small>BACKEND_LOGIC</small></p> </div> <div style="display: inline-block; margin: 10px;"> <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender" /> <p><small>DESIGN_TOOLS</small></p> </div> </div><h3 align="center">🔗 NETWORK_PORTS</h3><div align="center"> <a href="https://portfolio-nbrc.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/avinash-u-26b147255/" target="_blank"> <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.behance.net/avinash33" target="_blank"> <img src="https://img.shields.io/badge/🎨_BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" /> </a> <a href="mailto:avin3215@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><h3 align="center">📊 CODER_STATS [LEETCODE_ANALYSIS]</h3><div align="center"> <img src="https://leetcard.jacoblin.cool/aviyash?theme=dark&font=Source%20Code%20Pro&ext=heatmap&border_radius=10" alt="LeetCode Stats" width="600" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=AVINASH-U-WEB&label=PROFILE+VIEWS&color=00ff9d&style=flat-square" alt="Profile Views" /> <img src="https://wakatime.com/badge/user/your-username.svg" alt="Coding Time" /> </div><div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFzNmJtaW52NThpbjFnZTNocG01d3M2eWc3Njh6NmJkZ3JhZnY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" /> <p><i>// System Status: Online</i></p> </div> ```
