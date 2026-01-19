@@ -1,23 +1,81 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5ZWd4cDh0NWV1Mmd2ZGQ3bXQ4dmxycDZjdjBjMno3dDN2bGQzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeP6YKY/giphy.gif" width="400" alt="Digital Interface" />
+  
+# Hi there, I'm Avinash U! 👋
+
+### AI Engineer & Full Stack Developer
+
+Merging robust full-stack engineering with cutting-edge AI to build intelligent, autonomous systems.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:avin3215@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+[cite_start]I am an Information Technology Bachelor of Technology student based in Chennai, India[cite: 3, 4, 6]. [cite_start]My technical focus lies at the intersection of **Full Stack Development** and **Artificial Intelligence**[cite: 38].
+
+[cite_start]I have professional experience building real-time ERP modules using Next.js and Firebase, as well as managing end-to-end data pipelines for analytics[cite: 16, 20]. [cite_start]Recently certified in **Generative AI by Microsoft**, I am passionate about leveraging my full-stack expertise to create responsive, production-grade AI experiences[cite: 26, 41].
+
+---
+
+## 🧠 The AI Agent Vision
+
+My current work moves beyond simple chatbots to develop sophisticated **AI agent platforms**. [cite_start]By integrating RAG-based retrieval, modular tool orchestration, and high-performance LLMs, I build systems capable of complex, context-aware workflows[cite: 24, 26].
+
+### 🚀 Featured Project: AI Agent Development Platform
+
+[cite_start]**A full-stack system designed for intelligent, context-aware information grounding and real-time retrieval[cite: 23, 24, 25].**
+
+* [cite_start]**Architecture:** Built with **FastAPI**, **LangGraph**, and **React** to support modular tool orchestration[cite: 24, 26].
+* [cite_start]**Intelligence:** Integrates **Groq's high-performance LLM** for highly responsive mathematical computation and content analysis[cite: 25].
+* [cite_start]**Performance:** Utilizes **Redis-backed caching** and SSE-based streaming for a production-grade user experience[cite: 26].
+
+---
+
+## 🛠️ Technical Expertise
+
+I utilize a modern, scalable stack to build applications that solve real-world problems.
+
+**AI & Backend Core**
+<br>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white" alt="Gemini API"/>
+
+<br>
+
+**Frontend Ecosystem**
+<br>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+
+<br>
+
+**DevOps & Tools**
+<br>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+
+---
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=%F0%9F%96%A5%EF%B8%8F+SYSTEM+INITIALIZING...;HELLO+FELLOW+<DEVELOPERS%2F>;%F0%9F%91%8B+I'M+AVINASH;WEB+ARCHITECT+%7C+UI%2FUX+DESIGNER;CREATING+DIGITAL+EXPERIENCES" alt="Typing Animation" />
+  <p>Thanks for visiting! Feel free to connect to discuss AI agents, full-stack engineering, or potential collaborations.</p>
 </div>
-
-###
-
-<h3 align="center">🖥️ TERMINAL OUTPUT: USER_PROFILE</h3>
-
-```bash
-User: AVINASH-U-WEB
-Role: Full Stack Developer & Digital Designer
-Status: ACTIVE [🟢]
-Specialization: React | TypeScript | UI/UX
-Mission: Crafting intuitive digital experiences
-Location: Digital Space
-
-<div align="center"> <table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=AVINASH-U-WEB&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" height="165" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AVINASH-U-WEB&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=ffffff" height="165" /> </td> </tr> </table> </div><h3 align="center">⚡ ACTIVE MODULES</h3><div align="center"> <div style="display: inline-block; margin: 10px;"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript" /> <p><small>FRONTEND_ENGINE</small></p> </div> <div style="display: inline-block; margin: 10px;"> <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" /> <p><small>BACKEND_LOGIC</small></p> </div> <div style="display: inline-block; margin: 10px;"> <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender" /> <p><small>DESIGN_TOOLS</small></p> </div> </div><h3 align="center">🔗 NETWORK_PORTS</h3><div align="center"> <a href="https://portfolio-nbrc.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/avinash-u-26b147255/" target="_blank"> <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.behance.net/avinash33" target="_blank"> <img src="https://img.shields.io/badge/🎨_BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" /> </a> <a href="mailto:avin3215@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><h3 align="center">📊 CODER_STATS [LEETCODE_ANALYSIS]</h3><div align="center"> <img src="https://leetcard.jacoblin.cool/aviyash?theme=dark&font=Source%20Code%20Pro&ext=heatmap&border_radius=10" alt="LeetCode Stats" width="600" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=AVINASH-U-WEB&label=PROFILE+VIEWS&color=00ff9d&style=flat-square" alt="Profile Views" /> <img src="https://wakatime.com/badge/user/your-username.svg" alt="Coding Time" /> </div><div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFzNmJtaW52NThpbjFnZTNocG01d3M2eWc3Njh6NmJkZ3JhZnY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" /> <p><i>// System Status: Online</i></p> </div> ```
