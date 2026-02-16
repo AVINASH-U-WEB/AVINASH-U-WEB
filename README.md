@@ -20,23 +20,23 @@ Merging robust full-stack engineering with cutting-edge AI to build intelligent,
 
 ## 👨‍💻 About Me
 
-[cite_start]I am an Information Technology Bachelor of Technology student based in Chennai, India[cite: 3, 4, 6]. [cite_start]My technical focus lies at the intersection of **Full Stack Development** and **Artificial Intelligence**[cite: 38].
+I am an Information Technology Bachelor of Technology student based in Chennai, India.My technical focus lies at the intersection of **Full Stack Development** and **Artificial Intelligence**.
 
-[cite_start]I have professional experience building real-time ERP modules using Next.js and Firebase, as well as managing end-to-end data pipelines for analytics[cite: 16, 20]. [cite_start]Recently certified in **Generative AI by Microsoft**, I am passionate about leveraging my full-stack expertise to create responsive, production-grade AI experiences[cite: 26, 41].
+I have professional experience building real-time ERP modules using Next.js and Firebase, as well as managing end-to-end data pipelines for analytics.Recently certified in **Generative AI by Microsoft**, I am passionate about leveraging my full-stack expertise to create responsive, production-grade AI experiences.
 
 ---
 
 ## 🧠 The AI Agent Vision
 
-My current work moves beyond simple chatbots to develop sophisticated **AI agent platforms**. [cite_start]By integrating RAG-based retrieval, modular tool orchestration, and high-performance LLMs, I build systems capable of complex, context-aware workflows[cite: 24, 26].
+My current work moves beyond simple chatbots to develop sophisticated **AI agent platforms**. By integrating RAG-based retrieval, modular tool orchestration, and high-performance LLMs, I build systems capable of complex, context-aware workflows.
 
 ### 🚀 Featured Project: AI Agent Development Platform
 
-[cite_start]**A full-stack system designed for intelligent, context-aware information grounding and real-time retrieval[cite: 23, 24, 25].**
+**A full-stack system designed for intelligent, context-aware information grounding and real-time retrieval.**
 
-* [cite_start]**Architecture:** Built with **FastAPI**, **LangGraph**, and **React** to support modular tool orchestration[cite: 24, 26].
-* [cite_start]**Intelligence:** Integrates **Groq's high-performance LLM** for highly responsive mathematical computation and content analysis[cite: 25].
-* [cite_start]**Performance:** Utilizes **Redis-backed caching** and SSE-based streaming for a production-grade user experience[cite: 26].
+* **Architecture:** Built with **FastAPI**, **LangGraph**, and **React** to support modular tool orchestration.
+* **Intelligence:** Integrates **Groq's high-performance LLM** for highly responsive mathematical computation and content analysis.
+* **Performance:** Utilizes **Redis-backed caching** and SSE-based streaming for a production-grade user experience.
 
 ---
 
